@@ -4,6 +4,18 @@
 ## Description
 A simple game built with HTML, CSS, and JavaScript, leveraging DOM manipulation for interactive gameplay.
 
+## Rules:
+
+1. **Winning Condition:**
+   The first player to reach or exceed a total score of 100 wins the game.
+
+2. **Dice Roll:**
+   - Players take turns rolling a standard six-sided die.
+   - If a player rolls a 1, their current score resets to 0, and the turn switches to the other player.
+
+3. **Switching Turns:**
+   - Rolling a 1 causes an immediate switch of turns between players.
+   - The current player can choose to "hold" at any time, adding their current score to their total and passing the turn to the other player.
 
 
 
